@@ -1,1 +1,2 @@
-Clarisse Guimarães 3°B
+Funec Riacho: Clarisse Guimarães 3°B
+Desenvolvedora Fullstack
